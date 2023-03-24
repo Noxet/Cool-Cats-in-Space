@@ -1,0 +1,27 @@
+
+#LT Spice
+*.log
+*.raw
+
+### Atmel Studio ###
+
+.vs/
+
+[Dd]ebug/
+[Rr]elease/
+
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.sr
+
+*.atsln
+*.cproj
+*.componentinfo.xml
+
+### Altium Designer ###
+History/
+__Previews/
+*.PrjPcbStructure
